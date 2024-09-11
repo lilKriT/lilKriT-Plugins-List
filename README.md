@@ -22,6 +22,7 @@
 - CodeSnap - adpyke
 - Quokka.js
 - Codeium - if you like AI
+- GlassIt - set at around 245
 
 ## Tech Specific
 
@@ -35,6 +36,10 @@
 - Ayu
 - Github Theme
 - Dracula - not my favorite
+- Minimal Kiwi - strong contender
+- Monokai Pro - also good!
+- Safira Theme - not bad
+- Sequoia - with Moonlight
 
 ## VSCode Settings
 
