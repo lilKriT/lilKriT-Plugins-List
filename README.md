@@ -16,13 +16,14 @@
 - Markdown Preview Enhanced - Yiyi Wang
 - Multiple Cursor Case Preserve
 - Prettier
-- SVG
+- SVG by jock
 - Todo Tree
 - Code Runner
 - CodeSnap - adpyke
 - Quokka.js
 - Codeium - if you like AI
-- GlassIt - set at around 245
+- GlassIt - set at around 245 (actually not that good)
+- Background by Katsute (much better)
 
 ## Tech Specific
 
